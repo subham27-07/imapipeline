@@ -1,5 +1,5 @@
 datasets
-nltk==3.4
+nltk
 numpy
 flasgger==0.9.4
 streamlit
