@@ -13,4 +13,5 @@ torch
 transformers==4.24.0
 huggingface-hub==0.11.0
 wordnet
+pros_cons
 reuters
