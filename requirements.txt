@@ -1,6 +1,6 @@
 datasets
 nltk==3.4
-numpy==1.20.1
+numpy
 flasgger==0.9.4
 streamlit
 cython
